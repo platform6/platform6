@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Java, UIPath, ASP.net, HTML/CSS
-- 🌱 I’m currently learning ... Java
+- 🔭 I’m currently working on ... Java, Python, UIPath, ASP.net, HTML/CSS
+- 🌱 I’m currently learning ... Java and Python
 - 👯 I’m looking to collaborate on ... anything! 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
